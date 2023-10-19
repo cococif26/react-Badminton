@@ -1,0 +1,9 @@
+.fc-media-screen a { text-decoration: none; }
+a.fc-event { cursor:pointer; }
+.fc-popover { z-index:1 !important; }
+.calendarHover button { 
+    text-align: left; 
+    padding: 0px 5px;
+    font-size: 11px;
+}
+footer { z-index: 1; }

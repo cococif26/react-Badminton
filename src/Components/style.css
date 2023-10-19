@@ -1,0 +1,17 @@
+.text-red:hover,
+.text-red {
+    color: #D93221;
+}
+
+.sidebar{
+    width: 16rem;
+}
+.sidebar-toogle {
+    cursor: pointer;
+}
+.sidebar-toogle:hover{
+    color: #D93221;
+}
+#sidebar-wrapper{
+    background: rgb(235, 235, 235);
+}

@@ -1,0 +1,9 @@
+.mask-input-price input {
+    width: 100%;
+    border-radius: "60px";
+    
+    
+}
+.mask-input-price input:focus{
+    border-color: rgba(133, 133, 133, 0.6);
+}
